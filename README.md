@@ -1,0 +1,2 @@
+# OrigaRMITest
+RMI Test ideaProject
