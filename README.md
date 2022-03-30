@@ -1,2 +1,2 @@
-# OrigaRMITest
-RMI Test ideaProject
+# OrigaFactoryPizza
+Factory Test ideaProject
